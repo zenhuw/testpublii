@@ -9,5 +9,19 @@
         "name": "asdasd"
     },
     "items": [
+        {
+            "id": "https://testpublii.vercel.app/hello.html",
+            "url": "https://testpublii.vercel.app/hello.html",
+            "title": "hello",
+            "summary": "post baru",
+            "content_html": "<p>post baru</p>",
+            "author": {
+                "name": "asdasd"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-08-26T17:43:14+07:00",
+            "date_modified": "2020-08-26T17:43:14+07:00"
+        }
     ]
 }

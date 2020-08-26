@@ -9,4 +9,24 @@
     </author>
     <id>https://testpublii.vercel.app</id>
 
+    <entry>
+        <title>hello</title>
+        <author>
+            <name>asdasd</name>
+        </author>
+        <link href="https://testpublii.vercel.app/hello.html"/>
+        <id>https://testpublii.vercel.app/hello.html</id>
+
+        <updated>2020-08-26T17:43:14+07:00</updated>
+            <summary>
+                <![CDATA[
+                    post baru
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>post baru</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
